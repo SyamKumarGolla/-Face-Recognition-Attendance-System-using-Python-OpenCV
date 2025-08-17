@@ -1,2 +1,2 @@
-# -Face-Recognition-Attendance-System-using-Python-OpenCV
-Developed a real-time Face Recognition Attendance System using Python, OpenCV,  and the face recognition library to identify students via webcam
+# Face-recognition-campus-resources-allocation-managment
+The Face Recognition &amp; Campus Resources Allocation System automates attendance and campus resource management. Using AI-based face recognition, it ensures secure identification, accurate attendance, and efficient allocation of classrooms, labs, and equipment while reducing manual errors.
